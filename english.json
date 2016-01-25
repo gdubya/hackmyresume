@@ -6,11 +6,15 @@
   },
   "info": {
     "label": "Consultant",
-    "brief": "A brief description of yourself as a candidate, with or without **Markdown** and/or <strong>HTML</strong> formatting.",
+    "brief": "Gareth is a senior Java consultant based in Bouvet's Oslo office. He has over 10 years experience with enterprise development since graduating from university in 2004.
+    Between 20014 and 2011 he had a variety of technical roles with a multinational pharmaceuticals company, culminating as senior software engineer leading a team of developers based in both Great Britain and India.
+    Since he moved to Norway in 2011 he has worked as an IT consultant for Bouvet, contributing to several projects. Since 2012 he has worked with the Eress organization on the Erex project, where he is currently
+    acting as the technical architect.
+    He has a great interest in Java development and open source software, and is always eager to share best practices and new ideas with his team.",
     "image": ""
   },
   "contact": {
-    "website": "http://your-website.com",
+    "website": "http://bouvet.no",
     "phone": "96 62 59 09",
     "email": "gareth.western@bouvet.no",
     "other": []
@@ -28,11 +32,19 @@
         "position": "Consultant",
         "summary": "A summary of your role in this position. Can include **Markdown** and inline <strong>HTML</strong> formatting.",
         "start": "2011-08",
-        "keywords": [],
+        "keywords": [
+        	"Erex",
+        	"energy settlement",
+        	"reporting",
+        	"integration",
+        	"GWT",
+        	"MVC",
+        	"Colorline",
+        	"SMS"
+        ],
         "highlights": [
-          "Increased profits on left-handed spin widgets by 35%.",
-          "Participated in iterative/incremental tiddlywink development.",
-          "Promoted to Head Ninja after 500 successful cage matches."
+          "Technical architect for the Erex project",
+          "Launched a mobile alert (SMS) notification system for Colorline"
         ]
       },
       {
