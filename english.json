@@ -45,7 +45,7 @@
         "keywords": [
        	  "Pharmaceuticals",
        	  "Java",
-       	  "Web development",
+       	  "Web development"
         ],
         "highlights": [
           "Highlight #1.",
@@ -155,24 +155,6 @@
       "url": ""
     }
   ],
-  "reading": [
-    {
-      "title": "Other Copenhagens",
-      "flavor": "book",
-      "url": "http://www.amazon.com/Other-Copenhagens-And-Stories/dp/0984749209",
-      "author": "Edmund Jorgensen"
-    },
-    {
-      "title": "r/programming",
-      "flavor": "website",
-      "url": "https://www.reddit.com/r/programming"
-    },
-    {
-      "title": "Hacker News",
-      "flavor": "website",
-      "url": "https://news.ycombinator.com/"
-    }
-  ],
   "recognition": [
     {
       "flavor": "award",
@@ -215,13 +197,6 @@
       ]
     }
   ],
-  "testimonials": [
-    {
-      "name": "John Doe",
-      "flavor": "technical",
-      "quote": "Such-and-such is awesome! I'd hire him/her in a second!"
-    }
-  ],
   "languages": [
     {
       "language": "English",
@@ -246,15 +221,6 @@
         "GitHub Desktop (OS X)",
         "LFS",
         "GitHub API"
-      ]
-    },
-    {
-      "name": "chess",
-      "summary": "Avid chess player.",
-      "keywords": [
-        "Sicilian",
-        "King's Gambit",
-        "Ruy Lopez"
       ]
     }
   ]
