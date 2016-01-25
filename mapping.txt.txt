@@ -1,0 +1,32 @@
+On the right:
+RESSURSKATEGORI info.label
+
+STATSBORGERSKAP info.nationality
+
+KLARERING disposition.authorization
+
+TILGJENGELIGHET disposition.availability
+
+KOMPETANSEOMRÅDE employment.focusAreas
+
+KOMPETANSE employment.keywords
+
+SERTIFISERINGER skills.certifications
+
+
+Main:
+REFERANSER
+
+Arbeidserfaring
+
+Utdannelse
+
+Sertifiseringer
+
+Kurs
+
+Artikler, foredrag og verv
+
+Verktøy, teknologi og metoder
+
+Prosjekterfaring
